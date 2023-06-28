@@ -1,4 +1,4 @@
-package ar.edu.unlam.pb2;
+package ar.edu.unlam.p;
 
 import static org.junit.Assert.*;
 

@@ -1,4 +1,4 @@
-package ar.edu.unlam.pb2;
+package ar.edu.unlam.p;
 
 import java.util.ArrayList;
 import java.util.HashMap;
@@ -52,7 +52,7 @@ public class Veterinaria {
 				return duenio;
 			}
 		}
-		throw new DuenioInexistenteException("El dueño no existe");
+		throw new DuenioInexistenteException("El dueï¿½o no existe");
 	}
 	
 	public void registroDeAtenciones(Integer id, Integer dni, Integer idMascota, Double precio) throws MascotaNoEncontradaException, DuenioInexistenteException{

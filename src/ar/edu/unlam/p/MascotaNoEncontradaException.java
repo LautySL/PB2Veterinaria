@@ -1,4 +1,4 @@
-package ar.edu.unlam.pb2;
+package ar.edu.unlam.p;
 
 public class MascotaNoEncontradaException extends Exception {
 
